@@ -14,7 +14,7 @@
 ## Initial Cura Settings
 Name | Value
 ------------ | -------------
-Layer Height | 0.1
+Layer Height | 0.1 (0.15 for lower quality)
 Printing Temerature | 190
 Build plate temperature | 45
 Flow | 100%
