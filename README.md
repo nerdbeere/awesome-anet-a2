@@ -10,3 +10,14 @@
 
 ## Tools
 - **[OctoPi](https://octopi.octoprint.org/)** - ready-to-go Raspberry Pi image with OctoPrint
+
+## Initial Cura Settings
+Name | Value
+------------ | -------------
+Layer Height | 0.1
+Printing Temerature | 190
+Build plate temperature | 45
+Flow | 100%
+Print Speed | 50mm/s
+Infill Speed | 60mm/s
+Travel Speed | 100mm/s
