@@ -3,6 +3,8 @@
  
  ## Upgrade Parts
  - **[Adjustable Belt Tensioner](https://www.thingiverse.com/thing:1780636)**
+ - **[Hexagon Mainboard Cover](https://www.thingiverse.com/thing:2013479)**
+ - **[Fanduct with auto leveling sensor mount](https://www.thingiverse.com/thing:2057240)**
 
 ## Useful prints
 - **[XYZ 20mm Calibration Cube](https://www.thingiverse.com/thing:1278865)**
