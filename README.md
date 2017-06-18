@@ -30,6 +30,9 @@
 - Extrusion calibration
 - Use OctoPrint as print server
 
+## Tutorials
+- [Fusion 360 for absolute beginners](https://www.youtube.com/watch?v=A5bc9c3S12g)
+
 ## Troubleshooting
 - [Print quality troubleshooting](https://www.simplify3d.com/support/print-quality-troubleshooting/)
 
@@ -47,10 +50,12 @@ Travel Speed | 100mm/s
 ## Cura Settings after upgrade to glas bed and fan duct
 Name | Value
 ------------ | -------------
-Layer Height | 0.1 (0.15 for lower quality)
-Printing Temerature | 205
-Build plate temperature | 60
-Flow | 100%
-Print Speed | 50mm/s
+Layer Height | 0.2
+Printing Temerature | 210
+Build plate temperature | 65
+Flow | 113%
+Print Speed | 60mm/s
 Infill Speed | 60mm/s
 Travel Speed | 100mm/s
+Build Plate Adhesion Type | Brim
+Brim Width | 6.0mm
