@@ -13,6 +13,12 @@
 ## Tools
 - **[OctoPi](https://octopi.octoprint.org/)** - ready-to-go Raspberry Pi image with OctoPrint
 
+## Things to do after build
+- Extrusion calibration
+
+## Troubleshooting
+- [Print quality troubleshooting](https://www.simplify3d.com/support/print-quality-troubleshooting/)
+
 ## Initial Cura Settings
 Name | Value
 ------------ | -------------
