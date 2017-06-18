@@ -11,10 +11,24 @@
 - **[Customizable Temp Calibration Tower](https://www.thingiverse.com/thing:915435)**
 
 ## Tools
+
+### Print server
 - **[OctoPi](https://octopi.octoprint.org/)** - ready-to-go Raspberry Pi image with OctoPrint
 
+### 3D modeling
+- Windows 10 3D Builder - simple tool to get started with 3D modeling
+
+### Slicer (free)
+- [Cura](https://ultimaker.com/en/products/cura-software)
+- [Slic3r Prusa Edition](https://github.com/prusa3d/Slic3r/releases)
+
+### Slicer (paid)
+- [Simplify3D](https://www.simplify3d.com/)
+
 ## Things to do after build
+- Hotbed leveling
 - Extrusion calibration
+- Use OctoPrint as print server
 
 ## Troubleshooting
 - [Print quality troubleshooting](https://www.simplify3d.com/support/print-quality-troubleshooting/)
