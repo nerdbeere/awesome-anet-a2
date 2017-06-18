@@ -1,5 +1,5 @@
 # Awesome Anet A2
- A list of useful resources for the Anet A2 3d Printer
+ A list of useful resources for the Anet A2 3d Printer which I primarly write for myself so I don't forget these things.
  
  ## Upgrade Parts
  - **[Adjustable Belt Tensioner](https://www.thingiverse.com/thing:1780636)**
@@ -19,6 +19,17 @@ Name | Value
 Layer Height | 0.1 (0.15 for lower quality)
 Printing Temerature | 190
 Build plate temperature | 45
+Flow | 100%
+Print Speed | 50mm/s
+Infill Speed | 60mm/s
+Travel Speed | 100mm/s
+
+## Cura Settings after upgrade to glas bed and fan duct
+Name | Value
+------------ | -------------
+Layer Height | 0.1 (0.15 for lower quality)
+Printing Temerature | 205
+Build plate temperature | 60
 Flow | 100%
 Print Speed | 50mm/s
 Infill Speed | 60mm/s
