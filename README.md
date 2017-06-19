@@ -1,10 +1,14 @@
 # Awesome Anet A2
  A list of useful resources for the Anet A2 3d Printer which I primarly write for myself so I don't forget these things.
  
- ## Upgrade Parts
+ ## Printable Upgrade Parts
  - **[Adjustable Belt Tensioner](https://www.thingiverse.com/thing:1780636)**
  - **[Hexagon Mainboard Cover](https://www.thingiverse.com/thing:2013479)**
  - **[Fanduct with auto leveling sensor mount](https://www.thingiverse.com/thing:2057240)**
+ 
+ ## Upgrade parts
+ - Plastic wheel bearings for vslot: [Tevo](https://tevo3dprinterstore.com/products/tevo-cnc-openbuilds-plastic-wheel-pom-with-bearings-for-v-slot) / [openbuilds](http://openbuildspartstore.com/solid-v-wheel-kit/) / [openbuilds extreme](http://openbuildspartstore.com/xtreme-solid-v-wheel-kit/)
+ - [Magnetic Levitated 40mm fan](https://www.conrad.de/de/axialluefter-12-vdc-1359-mh-l-x-b-x-h-40-x-40-x-10-mm-sunon-me40101v1-000u-a99-183739.html)
 
 ## Useful prints
 - **[XYZ 20mm Calibration Cube](https://www.thingiverse.com/thing:1278865)**
@@ -27,8 +31,10 @@
 
 ## Things to do after build
 - Hotbed leveling
-- Extrusion calibration
+- Print a material cooler for PLA printing
+- [Extrusion calibration](http://plastikjunkies.de/extrusion-kalibrieren-e-steps-richtig-einstellen/)
 - Use OctoPrint as print server
+- Switch the 40mm fan against a [magnetic levitated](https://www.conrad.de/de/axialluefter-12-vdc-1359-mh-l-x-b-x-h-40-x-40-x-10-mm-sunon-me40101v1-000u-a99-183739.html) one. The stock fan is extremely vibrating
 
 ## Tutorials
 - [Fusion 360 for absolute beginners](https://www.youtube.com/watch?v=A5bc9c3S12g)
@@ -51,11 +57,11 @@ Travel Speed | 100mm/s
 Name | Value
 ------------ | -------------
 Layer Height | 0.2
-Printing Temerature | 210
+Printing Temerature | 205
 Build plate temperature | 65
 Flow | 113%
 Print Speed | 60mm/s
-Infill Speed | 60mm/s
-Travel Speed | 100mm/s
+Infill Speed | 70mm/s
+Travel Speed | 110mm/s
 Build Plate Adhesion Type | Brim
 Brim Width | 6.0mm
