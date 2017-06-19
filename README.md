@@ -4,7 +4,7 @@
  ## Printable Upgrade Parts
  - **[Adjustable Belt Tensioner](https://www.thingiverse.com/thing:1780636)**
  - **[Hexagon Mainboard Cover](https://www.thingiverse.com/thing:2013479)**
- - **[Fanduct with auto leveling sensor mount](https://www.thingiverse.com/thing:2057240)**
+ - **[Simple Fanduct](https://www.thingiverse.com/thing:2390401)** (shameless self-plug)
  
  ## Upgrade parts
  - Plastic wheel bearings for vslot: [Tevo](https://tevo3dprinterstore.com/products/tevo-cnc-openbuilds-plastic-wheel-pom-with-bearings-for-v-slot) / [openbuilds](http://openbuildspartstore.com/solid-v-wheel-kit/) / [openbuilds extreme](http://openbuildspartstore.com/xtreme-solid-v-wheel-kit/)
